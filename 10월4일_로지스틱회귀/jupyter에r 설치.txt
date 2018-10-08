@@ -1,0 +1,8 @@
+#jupyter에 R설치
+conda install -c r r-essentials
+
+#jupyter-core 업그레이드
+
+#pip upgrade 하기
+
+jupyter notebook
